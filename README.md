@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NaytOne1
+- 🌱 I’m currently learning c++, python and javascript.
+- 📫 How to reach me: sdinoraffaele280@gmail.com
+- 😄 Pronouns: he/him
